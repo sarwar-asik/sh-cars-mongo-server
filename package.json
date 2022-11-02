@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "colog": "^1.0.4",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongodb": "^4.11.0"
+  },
+  "name": "sh-cars-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "console-error": "^0.0.4",
+    "console-info": "^0.0.5",
+    "console-warn": "^0.0.4"
+  }
+}
